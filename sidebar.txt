@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmx:home|Door43 (gmx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmx|d43-gmx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmx/archive/master.zip|d43-gmx.zip]]
+
+**Recent Changes**
+{{changes>ns = gmx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmx|Ethnologue data]]
+
